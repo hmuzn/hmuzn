@@ -1,5 +1,5 @@
 <!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">✨ FrontEnd Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
@@ -10,6 +10,10 @@
   
 </div>
 
+<br>
+<br>
+
+<h3 align="center">✨ BlockChain Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white" />&nbsp
