@@ -4,6 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=HMUZN" />&nbsp
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=BlockChain+and+FrontEnd+Developer)](https://git.io/typing-svg" />&nbsp
+</div>
+
+
 <!--내용 부분-->
 <h3 align="center">✨ FrontEnd Tech Stack ✨</h3>
 <div align="center">
