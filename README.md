@@ -1,3 +1,9 @@
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=HMUZN" />&nbsp
+</div>
+
 <!--내용 부분-->
 <h3 align="center">✨ FrontEnd Tech Stack ✨</h3>
 <div align="center">
